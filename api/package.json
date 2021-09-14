@@ -254,7 +254,7 @@
     "sax": "^1.2.4",
     "semver": "^5.6.0",
     "set-blocking": "^2.0.0",
-    "set-value": "^2.0.0",
+    "set-value": "^4.0.1",
     "signal-exit": "^3.0.2",
     "slash": "^1.0.0",
     "snapdragon": "^0.8.2",

@@ -204,7 +204,7 @@
     "nanoid": "^2.0.0",
     "nanomatch": "^1.2.13",
     "needle": "^2.2.4",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^3.1.1",
     "node-pre-gyp": "^0.10.3",
     "nopt": "^4.0.1",
     "normalize-path": "^2.1.1",
